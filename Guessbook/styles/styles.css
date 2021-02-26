@@ -1,0 +1,21 @@
+body{
+    background-color: #749099;
+}
+hr.solid{
+    border-top: 0.063em solid #bbbbbb;
+}
+.card-footer{
+    height: 3.75em;
+}
+button{
+    float: right;
+}
+.main_container{
+    padding-top: 0.625em;
+    padding-bottom: 0.625em;
+    background-color: #FFFFFF;
+}
+.error_msg{
+    color: #b30d0d;
+    display: none;
+}
